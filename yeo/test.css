@@ -15,10 +15,18 @@ p.red{
 #dummy{
  color: yellow;
  background-color: green;
+ font-family: sans-serif. Helvetica, Arial;
+ border: 1px solid black;
+ padding : 7px;
+ margin : 8px 12px 16px 20px;  <!-- move away from every direction  top > right > bottom > left --> 
 }
 
 h1 {
  color: green;
  font-size :40pt;
  text-align: center;
+}
+
+img {
+ max-width: 300px;
 }
