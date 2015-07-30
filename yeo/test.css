@@ -1,0 +1,24 @@
+p {
+ color: blue;
+ font-size : 15pt;
+}
+
+.red {
+ color: #FF8080;
+ background-color: rgb(20, 20, 20);
+}
+
+p.red{
+ background-color: rgb(120,10,10);	
+}
+
+#dummy{
+ color: yellow;
+ background-color: green;
+}
+
+h1 {
+ color: green;
+ font-size :40pt;
+ text-align: center;
+}
